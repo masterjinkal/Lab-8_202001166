@@ -113,4 +113,4 @@ The `testLengthInInches()` method tests the `lengthInInches()` method of the `Bo
 created in the `setUp()` method and verifying that the returned values are correct using the `assertEquals()` method.
 The `@Test` annotation indicates that this method should be run as a JUnit test.
 
-After running the tests, the JUnit pane should display a green bar indicating that all tests have passed.
+After running the tests, the JUnit pane should display a green bar indicating that all tests have
